@@ -16,9 +16,7 @@
   <img src="https://img.shields.io/badge/HTML%20-38B2AC.svg?style=for-the-badge&logo=html&logoColor=white" alt="HTML" height="30" />
   
   <img src="https://img.shields.io/badge/CSS-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="?" height="30" />
-  
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="?" height="30" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30" />
+
 </p>
 
 <!--
