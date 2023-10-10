@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sankalp</h1>
-<h3 align="center">I'm a Computer/Electrical Engineering student at the University of Waterloo and am always looking to create new stuff!</h3>
+<!--<h3 align="center">I'm a Computer/Electrical Engineering student at the University of Waterloo and am always looking to create new stuff!</h3>
 
-- 🌱 I’m currently learning **Java and C**
+<!--- 🌱 I’m currently learning **Java and C**
 - 📫 How to reach me:  **skodande@uwaterloo.ca**
 - 📄 Here are the projects and experiences I'm most proud of! [Resume](https://flowcv.com/resume/moljhw9mk9)
 
