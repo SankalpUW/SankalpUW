@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **Java and C**
 - 📫 How to reach me:  **sankalpkodandera@gmail.com**
-- 📄 Here are the projects and experiences I'm most proud of! [Resume](https://flowcv.com/resume/moljhw9mk9)
+<!-- - 📄 Here are the projects and experiences I'm most proud of! [Resume](https://flowcv.com/resume/moljhw9mk9) -->
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
