@@ -10,7 +10,7 @@
 <h4 align="left">Programming Languages</h4>
 <p align="left"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30" />
-  <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30" />
+  <img src="https://img.shields.io/badge/Java-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="Java" height="30" />
   <img src="https://img.shields.io/badge/C++-239120.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30" />
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30" />
   <img src="https://img.shields.io/badge/HTML%20-38B2AC.svg?style=for-the-badge&logo=html&logoColor=white" alt="HTML" height="30" />
